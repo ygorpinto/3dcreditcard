@@ -1,4 +1,4 @@
-# Cartão de Crédito 3D 👀
+# Cartão de Crédito 3D
 
 <p> Nesse projeto eu pratico um pouco de CSS3 e animação 3D </p>
 
